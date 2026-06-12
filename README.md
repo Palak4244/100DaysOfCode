@@ -8,9 +8,12 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 1 / 100
-**Total Problems Solved:** 1
-**Active Streak:** 🔥 1 day
+**Current Day:** Day 2/ 100
+
+**Total Problems Solved:** 2
+
+**Active Streak:** 🔥 2 day
+
 **Primary Language:** C++ with STL
 
 > I'm not following a rigid week-wise plan. I pick topics based on what I feel like learning or what I'm stuck on. The only rule: **No Zero Days.**
@@ -24,7 +27,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 **C++ STL Arsenal:** `vector`, `string`, `unordered_map`, `unordered_set`, `stack`, `queue`, `priority_queue`, `pair`
 
 **DSA Patterns Touched:**
-- [x] Arrays & Hashing - Single Number
+- [x] Arrays & Hashing - Single Number , Maximum SubArray Sum
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Binary Search
@@ -40,8 +43,11 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ```
 100-days-of-Code-dsa/
 ├── Day-01_SingleNumber/
-│ ├── solution.cpp    // LC 136 - XOR approach
-│ └── notes.md        // Approach, bugs, time complexity
+│   ├── solution.cpp    // LC 136 - XOR approach
+│   └── notes.md        // Approach, bugs, time complexity
+├── Day-02_MaximumSubarray/
+│   ├── solution.cpp    // LC 53 - Kadane's Algorithm
+│   └── notes.md        // Brute force vs Kadane's, TC/SC
 └── STL-Notes/
-    └── cheatsheet.md // Isme vector ka syntax hai
+    └── cheatsheet.md   // Isme vector ka syntax hai
 ```
