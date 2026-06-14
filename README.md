@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 2/ 100
+**Current Day:** Day 4/ 100
 
-**Total Problems Solved:** 2
+**Total Problems Solved:** 4
 
-**Active Streak:** 🔥 2 day
+**Active Streak:** 🔥 4 day
 
 **Primary Language:** C++ with STL
 
@@ -27,7 +27,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 **C++ STL Arsenal:** `vector`, `string`, `unordered_map`, `unordered_set`, `stack`, `queue`, `priority_queue`, `pair`
 
 **DSA Patterns Touched:**
-- [x] Arrays & Hashing - Single Number , Maximum SubArray Sum
+- [x] Arrays & Hashing - 
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Binary Search
@@ -48,6 +48,13 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ├── Day-02_MaximumSubarray/
 │   ├── solution.cpp    // LC 53 - Kadane's Algorithm
 │   └── notes.md        // Brute force vs Kadane's, TC/SC
+├── Day-03_Pow(x,n)/
+│   ├── solution.cpp    // LC 50 - Binary Exponentiation
+│   └── notes.md        // Negative exponent handling, binary exponentiation, TC/SC
+├── Day-04_BestTimeToBuySellStock/
+│   ├── solution.cpp    // LC 121 - Track min price & max profit
+│   └── notes.md        // Brute force vs optimized approach, dry run, TC/SC
 └── STL-Notes/
-    └── cheatsheet.md   // Isme vector ka syntax hai
+    └── cheatsheet.md   // Vector syntax and STL basics
+
 ```
