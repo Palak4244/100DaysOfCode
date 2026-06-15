@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 4/ 100
+**Current Day:** Day 5/ 100
 
-**Total Problems Solved:** 4
+**Total Problems Solved:** 5
 
-**Active Streak:** 🔥 4 day
+**Active Streak:** 🔥 5 day
 
 **Primary Language:** C++ with STL
 
@@ -28,7 +28,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 
 **DSA Patterns Touched:**
 - [x] Arrays & Hashing - 
-- [ ] Two Pointers
+- [x] Two Pointers
 - [ ] Sliding Window
 - [ ] Binary Search
 - [ ] Stack & Queue
@@ -49,12 +49,16 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 │   ├── solution.cpp    // LC 53 - Kadane's Algorithm
 │   └── notes.md        // Brute force vs Kadane's, TC/SC
 ├── Day-03_Pow(x,n)/
-│   ├── solution.cpp    // LC 50 - Binary Exponentiation
-│   └── notes.md        // Negative exponent handling, binary exponentiation, TC/SC
-├── Day-04_BestTimeToBuySellStock/
-│   ├── solution.cpp    // LC 121 - Track min price & max profit
-│   └── notes.md        // Brute force vs optimized approach, dry run, TC/SC
+│   ├── solution.cpp    // LC 50 - Fast Power
+│   └── notes.md        // Recursive + Iterative, TC/SC
+├── Day-04_BestTimeToBuyAndSellStock/
+│   ├── solution.cpp    // LC 121 - Max Profit
+│   └── notes.md        // Brute force vs One-pass, TC/SC
+├── Day-05_ContainerWithMostWater/
+│   ├── solution.cpp    // LC 11 - Two Pointer
+│   └── notes.md        // Brute force + ✅ Two Pointer, TC/SC
 └── STL-Notes/
-    └── cheatsheet.md   // Vector syntax and STL basics
+    └── cheatsheet.md   // Vector syntax, STL basics
+
 
 ```
