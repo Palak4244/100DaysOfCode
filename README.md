@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 5/ 100
+**Current Day:** Day 6/ 100
 
-**Total Problems Solved:** 5
+**Total Problems Solved:** 6
 
-**Active Streak:** 🔥 5 day
+**Active Streak:** 🔥 6 day
 
 **Primary Language:** C++ with STL
 
@@ -39,7 +39,6 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 
 ---
 ## 📁 Repo Structure
-
 ```
 100-days-of-Code-dsa/
 ├── Day-01_SingleNumber/
@@ -57,8 +56,10 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ├── Day-05_ContainerWithMostWater/
 │   ├── solution.cpp    // LC 11 - Two Pointer
 │   └── notes.md        // Brute force + ✅ Two Pointer, TC/SC
+├── Day-06_ProductOfArrayExceptSelf/
+│   ├── solution.cpp    // LC 238 - Prefix/Suffix + Space Optimized
+│   └── notes.md        // Brute force, Prefix+Suffix, Space Optimized, TC/SC
 └── STL-Notes/
     └── cheatsheet.md   // Vector syntax, STL basics
-
 
 ```
