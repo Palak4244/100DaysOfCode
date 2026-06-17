@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 6/ 100
+**Current Day:** Day 7/ 100
 
-**Total Problems Solved:** 6
+**Total Problems Solved:** 7
 
-**Active Streak:** 🔥 6 day
+**Active Streak:** 🔥 7 day
 
 **Primary Language:** C++ with STL
 
@@ -30,7 +30,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 - [x] Arrays & Hashing - 
 - [x] Two Pointers
 - [ ] Sliding Window
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Stack & Queue
 - [ ] Bit Manipulation
 - [ ] Trees & Graphs
@@ -59,6 +59,9 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ├── Day-06_ProductOfArrayExceptSelf/
 │   ├── solution.cpp    // LC 238 - Prefix/Suffix + Space Optimized
 │   └── notes.md        // Brute force, Prefix+Suffix, Space Optimized, TC/SC
+├── Day-07_SearchInRotatedSortedArray/
+│   ├── solution.cpp    // LC 33 - Modified Binary Search
+│   └── notes.md        // Brute force, Pivot+Binary Search, Modified Binary Search, TC/SC
 └── STL-Notes/
     └── cheatsheet.md   // Vector syntax, STL basics
 
