@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 8/ 100
+**Current Day:** Day 10/ 100
 
-**Total Problems Solved:** 8
+**Total Problems Solved:** 10
 
-**Active Streak:** 🔥 8 day
+**Active Streak:** 🔥 10 day
 
 **Primary Language:** C++ with STL
 
@@ -65,8 +65,15 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ├── Day-08_PeakIndexInMountainArray/
 │   ├── solution.cpp    // LC 852 - Binary Search
 │   └── notes.md        // Brute force + Binary Search detailed explanation, TC/SC
+├── Day-09_SingleElementInSortedArray/
+│   ├── solution.cpp    // LC 540 - Binary Search
+│   └── notes.md        // Brute force vs Binary Search, Hinglish explanation, TC/SC
+├── Day-10_SortColors/
+│   ├── solution.cpp    // LC 75 - Dutch National Flag Algorithm
+│   └── notes.md        // Brute force, Counting Sort, Dutch National Flag, Hinglish explanation, TC/SC
 └── STL-Notes/
     └── cheatsheet.md   // Vector syntax, STL basics
+
 
 
 ```
