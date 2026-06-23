@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 11/ 100
+**Current Day:** Day 12/ 100
 
-**Total Problems Solved:** 11
+**Total Problems Solved:** 12
 
-**Active Streak:** 🔥 11 day
+**Active Streak:** 🔥 12 day
 
 **Primary Language:** C++ with STL
 
@@ -71,8 +71,15 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ├── Day-10_SortColors/
 │   ├── solution.cpp    // LC 75 - Dutch National Flag Algorithm
 │   └── notes.md        // Brute force, Counting Sort, Dutch National Flag, Hinglish explanation, TC/SC
+├── Day-11_MergeSortedArray/
+│   ├── solution.cpp    // LC 88 - Merge Sorted Array
+│   └── notes.md        // Brute force (extra array), Two-pointer from end, Hinglish explanation, TC/SC
+├── Day-12_NextPermutation/
+│   ├── solution.cpp    // LC 31 - Next Permutation
+│   └── notes.md        // Brute force, Sorting-based, Optimized (pivot→swap→reverse), Hinglish explanation, TC/SC
 └── STL-Notes/
     └── cheatsheet.md   // Vector syntax, STL basics
+
 
 
 
