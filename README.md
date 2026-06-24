@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 12/ 100
+**Current Day:** Day 13/ 100
 
-**Total Problems Solved:** 12
+**Total Problems Solved:** 13
 
-**Active Streak:** 🔥 12 day
+**Active Streak:** 🔥 13 day
 
 **Primary Language:** C++ with STL
 
@@ -29,6 +29,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 **DSA Patterns Touched:**
 - [x] Arrays & Hashing - 
 - [x] Two Pointers
+- [x] String
 - [ ] Sliding Window
 - [x] Binary Search
 - [ ] Stack & Queue
@@ -77,8 +78,12 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ├── Day-12_NextPermutation/
 │   ├── solution.cpp    // LC 31 - Next Permutation
 │   └── notes.md        // Brute force, Sorting-based, Optimized (pivot→swap→reverse), Hinglish explanation, TC/SC
+├── Day-13_ReverseString/
+│   ├── solution.cpp    // LC 344 - Reverse String (STL reverse / swap)
+│   └── notes.md        // STL reverse, Two-pointer swap, TC/SC
 └── STL-Notes/
     └── cheatsheet.md   // Vector syntax, STL basics
+
 
 
 
