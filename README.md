@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 14/ 100
+**Current Day:** Day 15/ 100
 
-**Total Problems Solved:** 14
+**Total Problems Solved:** 15
 
-**Active Streak:** 🔥 14 day
+**Active Streak:** 🔥 15 day
 
 **Primary Language:** C++ with STL
 
