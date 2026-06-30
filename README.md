@@ -96,6 +96,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +105,12 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
