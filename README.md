@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 20/ 100
+**Current Day:** Day 21/ 100
 
-**Total Problems Solved:** 20
+**Total Problems Solved:** 21
 
-**Active Streak:** 🔥 20 day
+**Active Streak:** 🔥 21 day
 
 **Primary Language:** C++ with STL
 
@@ -30,6 +30,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 - [x] Arrays & Hashing - 
 - [x] Two Pointers
 - [x] String
+- [x] Recursion & Backtracking
 - [ ] Sliding Window
 - [x] Binary Search
 - [ ] Stack & Queue
