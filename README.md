@@ -136,6 +136,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -152,9 +154,19 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
