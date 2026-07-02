@@ -96,6 +96,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -113,10 +114,12 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
