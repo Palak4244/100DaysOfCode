@@ -98,6 +98,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
@@ -137,6 +139,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Palak4244/100DaysOfCode/tree/master/3620-network-recovery-pathways) |
@@ -167,6 +170,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -196,5 +200,6 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Palak4244/100DaysOfCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
