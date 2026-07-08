@@ -8,11 +8,11 @@
 
 ## 📊 Live Progress
 
-**Current Day:** Day 21/ 100
+**Current Day:** Day 31/ 100
 
-**Total Problems Solved:** 21
+**Total Problems Solved:** 31
 
-**Active Streak:** 🔥 21 day
+**Active Streak:** 🔥 31 day
 
 **Primary Language:** C++ with STL
 
@@ -26,18 +26,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 
 **C++ STL Arsenal:** `vector`, `string`, `unordered_map`, `unordered_set`, `stack`, `queue`, `priority_queue`, `pair`
 
-**DSA Patterns Touched:**
-- [x] Arrays & Hashing - 
-- [x] Two Pointers
-- [x] String
-- [x] Recursion & Backtracking
-- [ ] Sliding Window
-- [x] Binary Search
-- [ ] Stack & Queue
-- [ ] Bit Manipulation
-- [ ] Trees & Graphs
 
-*I update this checklist as I learn new topics. No deadline, just progress.*
 
 ---
 ## 📁 Repo Structure
