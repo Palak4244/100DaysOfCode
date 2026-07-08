@@ -103,6 +103,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -218,4 +220,8 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
