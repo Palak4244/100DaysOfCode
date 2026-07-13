@@ -232,4 +232,8 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Palak4244/100DaysOfCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
