@@ -141,6 +141,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [1288-remove-covered-intervals](https://github.com/Palak4244/100DaysOfCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/1331-rank-transform-of-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -201,6 +202,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Palak4244/100DaysOfCode/tree/master/0089-gray-code) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak4244/100DaysOfCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
