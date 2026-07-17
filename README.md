@@ -89,6 +89,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Palak4244/100DaysOfCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Palak4244/100DaysOfCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Palak4244/100DaysOfCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
