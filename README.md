@@ -140,6 +140,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Palak4244/100DaysOfCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/1331-rank-transform-of-an-array) |
@@ -180,6 +181,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -232,6 +234,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
