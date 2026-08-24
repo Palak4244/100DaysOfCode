@@ -92,6 +92,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0058-length-of-last-word](https://github.com/Palak4244/100DaysOfCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Palak4244/100DaysOfCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Palak4244/100DaysOfCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -102,6 +103,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Palak4244/100DaysOfCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Palak4244/100DaysOfCode/tree/master/3620-network-recovery-pathways) |
