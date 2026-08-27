@@ -136,6 +136,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Palak4244/100DaysOfCode/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palak4244/100DaysOfCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 | [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Palak4244/100DaysOfCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -213,6 +215,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Palak4244/100DaysOfCode/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak4244/100DaysOfCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
