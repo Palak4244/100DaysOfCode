@@ -146,6 +146,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palak4244/100DaysOfCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Palak4244/100DaysOfCode/tree/master/0485-max-consecutive-ones) |
 | [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Palak4244/100DaysOfCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
