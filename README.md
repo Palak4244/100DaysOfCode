@@ -150,6 +150,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Palak4244/100DaysOfCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Palak4244/100DaysOfCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -167,6 +168,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palak4244/100DaysOfCode/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Palak4244/100DaysOfCode/tree/master/3620-network-recovery-pathways) |
@@ -290,4 +292,28 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
