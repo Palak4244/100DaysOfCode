@@ -236,6 +236,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak4244/100DaysOfCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3870-count-commas-in-range](https://github.com/Palak4244/100DaysOfCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
