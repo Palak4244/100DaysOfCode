@@ -2,30 +2,20 @@ class Solution {
 public:
     long long countCommas(long long n) {
         long long ans = 0;
-
-        // 1000 to 999999 -> 1 comma
         if (n >= 1000) {
             ans += min(n, 999999LL) - 1000 + 1;
         }
-
-        // 1000000 to 999999999 -> 2 commas
         if (n >= 1000000) {
             ans += 2 * (min(n, 999999999LL) - 1000000 + 1);
         }
-
-        // 1000000000 to 999999999999 -> 3 commas
         if (n >= 1000000000LL) {
             ans += 3 * (min(n, 999999999999LL)
                        - 1000000000LL + 1);
         }
-
-        // 1000000000000 to 999999999999999 -> 4 commas
         if (n >= 1000000000000LL) {
             ans += 4 * (min(n, 999999999999999LL)
                        - 1000000000000LL + 1);
         }
-
-        // 1000000000000000 -> 5 commas
         if (n >= 1000000000000000LL) {
             ans += 5;
         }
