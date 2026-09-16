@@ -108,6 +108,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Palak4244/100DaysOfCode/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Palak4244/100DaysOfCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak4244/100DaysOfCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/Palak4244/100DaysOfCode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -240,6 +241,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0089-gray-code](https://github.com/Palak4244/100DaysOfCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/Palak4244/100DaysOfCode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak4244/100DaysOfCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -277,6 +279,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -341,4 +344,8 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Palak4244/100DaysOfCode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
