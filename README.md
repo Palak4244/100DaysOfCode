@@ -98,6 +98,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak4244/100DaysOfCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Palak4244/100DaysOfCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -282,6 +283,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Palak4244/100DaysOfCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Palak4244/100DaysOfCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
