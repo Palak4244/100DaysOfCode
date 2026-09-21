@@ -112,6 +112,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak4244/100DaysOfCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Palak4244/100DaysOfCode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -176,6 +177,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3524-find-x-value-of-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Palak4244/100DaysOfCode/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -250,6 +252,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [1401-circle-and-rectangle-overlapping](https://github.com/Palak4244/100DaysOfCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3524-find-x-value-of-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak4244/100DaysOfCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
