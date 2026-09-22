@@ -152,6 +152,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Palak4244/100DaysOfCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
@@ -184,6 +185,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Palak4244/100DaysOfCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palak4244/100DaysOfCode/tree/master/0162-find-peak-element) |
@@ -330,6 +332,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Palak4244/100DaysOfCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
