@@ -245,6 +245,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Palak4244/100DaysOfCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
