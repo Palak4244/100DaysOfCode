@@ -125,6 +125,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/0229-majority-element-ii) |
@@ -152,6 +153,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palak4244/100DaysOfCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
