@@ -368,4 +368,8 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak4244/100DaysOfCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
