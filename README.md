@@ -95,6 +95,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0072-edit-distance](https://github.com/Palak4244/100DaysOfCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak4244/100DaysOfCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -124,6 +125,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Palak4244/100DaysOfCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Palak4244/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0301-remove-invalid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Palak4244/100DaysOfCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Palak4244/100DaysOfCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
