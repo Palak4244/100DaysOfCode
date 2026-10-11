@@ -183,6 +183,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Palak4244/100DaysOfCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Palak4244/100DaysOfCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Palak4244/100DaysOfCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3524-find-x-value-of-array-i) |
@@ -314,6 +315,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Palak4244/100DaysOfCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Palak4244/100DaysOfCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
