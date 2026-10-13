@@ -86,6 +86,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Palak4244/100DaysOfCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
@@ -107,6 +108,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Palak4244/100DaysOfCode/tree/master/0072-edit-distance) |
@@ -151,6 +153,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Palak4244/100DaysOfCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Palak4244/100DaysOfCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -387,4 +390,8 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0856-score-of-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak4244/100DaysOfCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/1021-remove-outermost-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
