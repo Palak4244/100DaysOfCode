@@ -155,6 +155,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Palak4244/100DaysOfCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Palak4244/100DaysOfCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -164,6 +165,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0001-two-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palak4244/100DaysOfCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
@@ -295,6 +297,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Palak4244/100DaysOfCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/1331-rank-transform-of-an-array) |
