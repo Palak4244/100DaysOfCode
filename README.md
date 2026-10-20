@@ -88,6 +88,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Palak4244/100DaysOfCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Palak4244/100DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Palak4244/100DaysOfCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
@@ -135,6 +136,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0001-two-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Palak4244/100DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Palak4244/100DaysOfCode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/1331-rank-transform-of-an-array) |
@@ -262,6 +264,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0007-reverse-integer](https://github.com/Palak4244/100DaysOfCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Palak4244/100DaysOfCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Palak4244/100DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
