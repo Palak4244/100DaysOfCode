@@ -88,6 +88,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Palak4244/100DaysOfCode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Palak4244/100DaysOfCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Palak4244/100DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Palak4244/100DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Palak4244/100DaysOfCode/tree/master/0038-count-and-say) |
