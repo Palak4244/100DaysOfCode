@@ -154,6 +154,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Palak4244/100DaysOfCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Palak4244/100DaysOfCode/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -405,4 +406,8 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Palak4244/100DaysOfCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
