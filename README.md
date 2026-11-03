@@ -174,6 +174,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0015-3sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Palak4244/100DaysOfCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Palak4244/100DaysOfCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palak4244/100DaysOfCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -246,6 +247,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Palak4244/100DaysOfCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Palak4244/100DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Palak4244/100DaysOfCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/1260-shift-2d-grid) |
@@ -272,6 +274,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [0009-palindrome-number](https://github.com/Palak4244/100DaysOfCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Palak4244/100DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Palak4244/100DaysOfCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Palak4244/100DaysOfCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Palak4244/100DaysOfCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Palak4244/100DaysOfCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Palak4244/100DaysOfCode/tree/master/0070-climbing-stairs) |
