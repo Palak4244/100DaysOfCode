@@ -161,6 +161,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Palak4244/100DaysOfCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Palak4244/100DaysOfCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Palak4244/100DaysOfCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Palak4244/100DaysOfCode/tree/master/0189-rotate-array) |
@@ -171,6 +172,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | ------- |
 | [0001-two-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palak4244/100DaysOfCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Palak4244/100DaysOfCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Palak4244/100DaysOfCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Palak4244/100DaysOfCode/tree/master/0041-first-missing-positive) |
@@ -351,6 +353,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Palak4244/100DaysOfCode/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak4244/100DaysOfCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Palak4244/100DaysOfCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak4244/100DaysOfCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
