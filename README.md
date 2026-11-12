@@ -205,6 +205,7 @@ Instead of fixed weeks, I'm covering these core areas as I go:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak4244/100DaysOfCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Palak4244/100DaysOfCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Palak4244/100DaysOfCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Palak4244/100DaysOfCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Palak4244/100DaysOfCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
